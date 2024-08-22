@@ -13,3 +13,5 @@ A file called "did.txt".
 
 Notice:
 After the update, delete the files from the SD card, update your machine as needed, we await the results, thank you!
+
+<a href="https://ibb.co/HdPF4YD"><img src="https://i.ibb.co/8cxKs2D/Captura-de-pantalla-2024-08-22-a-las-11-05-54-p-m.png" alt="Captura-de-pantalla-2024-08-22-a-las-11-05-54-p-m" border="0"></a>
